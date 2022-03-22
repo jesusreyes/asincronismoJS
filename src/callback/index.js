@@ -20,4 +20,4 @@ function printDate(dateNow){
     console.log(dateNow);
 }
 
-date(printDate)
+date(printDate);
